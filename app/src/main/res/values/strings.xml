@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlaceDemo</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="request_permission">Solicitar Permiso</string>
+    <string name="request_text">PlacesApp necesita permiso para activar la ubicación</string>
+    <string name="grant_permission">Conceder permiso</string>
+</resources>
